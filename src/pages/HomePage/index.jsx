@@ -9,7 +9,6 @@ export default function HomePage(){
                     <video autoPlay muted loop playsInline id="vid">
                         <source src='/vid.mp4' type='video/mp4' />
                     </video>
-                    <div className="name">INTEREACT</div>
                 </div>
                 <div className="nav-bar">
                     <div className="nav-links">
@@ -23,6 +22,7 @@ export default function HomePage(){
                         </div>
                     </div>
                 </div>
+                <div className="name">INTEREACT</div>
                 <div className="about-section-container">
                     <div className="about-content">
                         <p>
@@ -37,9 +37,9 @@ export default function HomePage(){
                 <div className="footer-section">
                     <div className="contacts">
                         <div className="contact-title">Contacts</div>
-                        <div>Phno : 9876543210</div>
-                        <a>Instagram</a>
-                        <a>Facebook</a>
+                        <div>Phno : 987654321</div>
+                        <a>Instagram: abc_10</a>
+                        <a>gmail: abc@gmail.com</a>
                     </div>
                 </div>
             </div>

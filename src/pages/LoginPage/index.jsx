@@ -16,7 +16,7 @@ function Loginpage() {
   }
 
   function validateLogin() {
-    if (username == "prathik" && password == "prejith") {
+    if (username == "Advaith" && password == "advaith") {
       alert("Success!");
       navigate("/");
     } else {
