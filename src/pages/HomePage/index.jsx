@@ -37,9 +37,9 @@ export default function HomePage(){
                 <div className="footer-section">
                     <div className="contacts">
                         <div className="contact-title">Contacts</div>
-                        <div>Phno : 987654321</div>
-                        <a>Instagram: abc_10</a>
-                        <a>gmail: abc@gmail.com</a>
+                        <div>Phno : 9988776655</div>
+                        <a>Instagram: ABN_10</a>
+                        <a>gmail: ABN@gmail.com</a>
                     </div>
                 </div>
             </div>
